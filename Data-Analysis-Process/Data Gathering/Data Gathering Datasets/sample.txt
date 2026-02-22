@@ -1,0 +1,7 @@
+emp_id,name,department,gender,experience_years
+E001,Ali Khan,IT,Male,2
+E002,Sara Ahmed,HR,Female,4
+E003,Usman Raza,Finance,Male,3
+E004,Ayesha Noor,IT,Female,1
+E005,Hamza Ali,Marketing,Male,5
+
